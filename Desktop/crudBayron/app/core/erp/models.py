@@ -3,7 +3,6 @@ from datetime import datetime
 
 from django.forms import model_to_dict
 
-from core.erp.choices import gender_choices
 
 
 class Category(models.Model):
